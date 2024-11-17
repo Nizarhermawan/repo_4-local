@@ -1,3 +1,8 @@
 h1 {
   font-style: initial;
 }
+p {
+  font-feature-settings: "akhn";
+  -webkit-font-feature-settings: "akhn";
+  -moz-font-feature-settings: "akhn";
+}
